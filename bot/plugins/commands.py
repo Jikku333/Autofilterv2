@@ -28,14 +28,14 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = caption,
+                caption = "@SpØ͢͢͢τ⚠© M𐍉vΐes❥ ™Lτᖙ CHATTING GROUP",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🎖️Our Group🎖️', url="https://t.me/RHYTHMHACKER"
                                 )
                         ]
                     ]
