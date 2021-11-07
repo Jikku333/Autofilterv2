@@ -46,8 +46,7 @@ async def start(bot, update):
             LOGGER(__name__).error(e)
         return
 
-    buttons = [[
-        InlineKeyboardButton('👑Owner👑', url='https://t.me/Jikku333'),
+    buttons = [[InlineKeyboardButton('👑Owner👑', url='https://t.me/Jikku333'),
         InlineKeyboardButton('♦️Our Group♦️', url='https://t.me/RHYTHMHACKER'),
         InlineKeyboardButton('❌Back up Channel❌', url ='https://t.me/joinchat/rP2J5aSvTvk3YmM1')
     ],[
